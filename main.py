@@ -8,7 +8,8 @@ MALICIOUS_FILE_NAMES = [
     "ransomware.py",
     "keylogger.dll",
     "MEMZ.exe",
-    "Discord rat.exe"
+    "Discord rat.exe",
+    "IMDCSC.exe"
 ]
 
 def scan_directory(directory):
