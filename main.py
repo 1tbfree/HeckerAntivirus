@@ -10,7 +10,8 @@ MALICIOUS_FILE_NAMES = [
     "MEMZ.exe",
     "Discord rat.exe",
     "IMDCSC.exe",
-    "AI.exe"
+    "AI.exe",
+    "WannaCry.exe",
 ]
 
 def scan_directory(directory):
